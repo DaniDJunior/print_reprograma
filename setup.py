@@ -1,4 +1,4 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 
 setup(
     name='print_reprograma',
@@ -8,7 +8,7 @@ setup(
     author='Daniele Junior',
     author_email='dani@travatech.com.br',
     license='BSD 2-clause',
-    packages=['print_reprograma'],
+    packages=find_packages(),
     install_requires=[],
 
     classifiers=[
