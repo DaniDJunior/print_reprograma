@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='print_reprograma',
-    version='0.1.0',    
+    version='0.1.1',    
     description='A example Python package',
     url='https://github.com/DaniDJunior/print_reprograma',
     author='Daniele Junior',
